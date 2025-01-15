@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "https://widget-test.tagembed.com/widget/static/css/main.84527282.css",
+    "main.css": "https://widget-test.tagembed.com/widget/static/css/main.0e055fdc.css",
     "main.js": "https://widget-test.tagembed.com/widget/static/js/main.d9d4d4dc.js",
     "static/js/7774.fb3088c1.chunk.js": "https://widget-test.tagembed.com/widget/static/js/7774.fb3088c1.chunk.js",
     "static/js/4355.b533dc64.chunk.js": "https://widget-test.tagembed.com/widget/static/js/4355.b533dc64.chunk.js",
@@ -144,7 +144,7 @@
     "index.html": "https://widget-test.tagembed.com/widget/index.html"
   },
   "entrypoints": [
-    "static/css/main.84527282.css",
+    "static/css/main.0e055fdc.css",
     "static/js/main.d9d4d4dc.js"
   ]
 }

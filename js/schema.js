@@ -2,7 +2,12 @@ const TagembedSocialSchema = {
     gSD(sId, fId, sDiv) {
         console.log("sId, fId, sDiv", sId, fId, sDiv);
         const sObj = JSON.parse(sDiv.innerHTML);
-        fetch(`https://test.taggbox.com/api/v1/walls/google-schema/${sId}/${fId}`)
+        fetch(`https://test.taggbox.com/api/v1/walls/google-schema/${sId}/${fId}`, {
+            headers: {
+                'Content-Type': 'application/json',
+                'productdomain': `taggbox.com`
+            }
+        })
             .then(r => r.ok ? r.json() : Promise.reject(`HTTP error! Status: ${r.status}`))
             .then(({ data: d }) => {
                 if (d?.rating) {

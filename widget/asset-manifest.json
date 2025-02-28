@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://widget-test.tagembed.com/widget/static/css/main.0e055fdc.css",
-    "main.js": "https://widget-test.tagembed.com/widget/static/js/main.57981897.js",
+    "main.js": "https://widget-test.tagembed.com/widget/static/js/main.4c647a55.js",
     "static/js/7774.fb3088c1.chunk.js": "https://widget-test.tagembed.com/widget/static/js/7774.fb3088c1.chunk.js",
     "static/js/4355.05052c4f.chunk.js": "https://widget-test.tagembed.com/widget/static/js/4355.05052c4f.chunk.js",
     "static/js/3032.796a69e2.chunk.js": "https://widget-test.tagembed.com/widget/static/js/3032.796a69e2.chunk.js",
@@ -60,13 +60,13 @@
     "static/css/5452.b38a568e.chunk.css": "https://widget-test.tagembed.com/widget/static/css/5452.b38a568e.chunk.css",
     "static/js/5452.d4fd10dc.chunk.js": "https://widget-test.tagembed.com/widget/static/js/5452.d4fd10dc.chunk.js",
     "static/css/3765.43fbb6b9.chunk.css": "https://widget-test.tagembed.com/widget/static/css/3765.43fbb6b9.chunk.css",
-    "static/js/3765.77b86ddb.chunk.js": "https://widget-test.tagembed.com/widget/static/js/3765.77b86ddb.chunk.js",
+    "static/js/3765.1f2c61b9.chunk.js": "https://widget-test.tagembed.com/widget/static/js/3765.1f2c61b9.chunk.js",
     "static/css/4119.bd760823.chunk.css": "https://widget-test.tagembed.com/widget/static/css/4119.bd760823.chunk.css",
     "static/js/4119.9ea2b391.chunk.js": "https://widget-test.tagembed.com/widget/static/js/4119.9ea2b391.chunk.js",
     "static/css/271.259029b3.chunk.css": "https://widget-test.tagembed.com/widget/static/css/271.259029b3.chunk.css",
     "static/js/271.75ca964f.chunk.js": "https://widget-test.tagembed.com/widget/static/js/271.75ca964f.chunk.js",
     "static/css/2314.0b829a18.chunk.css": "https://widget-test.tagembed.com/widget/static/css/2314.0b829a18.chunk.css",
-    "static/js/2314.8fe72368.chunk.js": "https://widget-test.tagembed.com/widget/static/js/2314.8fe72368.chunk.js",
+    "static/js/2314.9905836b.chunk.js": "https://widget-test.tagembed.com/widget/static/js/2314.9905836b.chunk.js",
     "static/css/1960.080edcc2.chunk.css": "https://widget-test.tagembed.com/widget/static/css/1960.080edcc2.chunk.css",
     "static/js/1960.7ff77159.chunk.js": "https://widget-test.tagembed.com/widget/static/js/1960.7ff77159.chunk.js",
     "static/css/16.8c8111d0.chunk.css": "https://widget-test.tagembed.com/widget/static/css/16.8c8111d0.chunk.css",
@@ -80,9 +80,9 @@
     "static/css/82.47ebf8dd.chunk.css": "https://widget-test.tagembed.com/widget/static/css/82.47ebf8dd.chunk.css",
     "static/js/82.c9855c47.chunk.js": "https://widget-test.tagembed.com/widget/static/js/82.c9855c47.chunk.js",
     "static/css/3541.b0a035e3.chunk.css": "https://widget-test.tagembed.com/widget/static/css/3541.b0a035e3.chunk.css",
-    "static/js/3541.648938e4.chunk.js": "https://widget-test.tagembed.com/widget/static/js/3541.648938e4.chunk.js",
+    "static/js/3541.a6b525c3.chunk.js": "https://widget-test.tagembed.com/widget/static/js/3541.a6b525c3.chunk.js",
     "static/css/9159.c07684a1.chunk.css": "https://widget-test.tagembed.com/widget/static/css/9159.c07684a1.chunk.css",
-    "static/js/9159.b53153e6.chunk.js": "https://widget-test.tagembed.com/widget/static/js/9159.b53153e6.chunk.js",
+    "static/js/9159.8952fc54.chunk.js": "https://widget-test.tagembed.com/widget/static/js/9159.8952fc54.chunk.js",
     "static/css/7694.de39f026.chunk.css": "https://widget-test.tagembed.com/widget/static/css/7694.de39f026.chunk.css",
     "static/js/7694.d660300f.chunk.js": "https://widget-test.tagembed.com/widget/static/js/7694.d660300f.chunk.js",
     "static/css/8635.0da8259c.chunk.css": "https://widget-test.tagembed.com/widget/static/css/8635.0da8259c.chunk.css",
@@ -92,11 +92,11 @@
     "static/css/7970.84bb0c22.chunk.css": "https://widget-test.tagembed.com/widget/static/css/7970.84bb0c22.chunk.css",
     "static/js/7970.0c73b12c.chunk.js": "https://widget-test.tagembed.com/widget/static/js/7970.0c73b12c.chunk.js",
     "static/css/5881.fcf67c6d.chunk.css": "https://widget-test.tagembed.com/widget/static/css/5881.fcf67c6d.chunk.css",
-    "static/js/5881.8575ec21.chunk.js": "https://widget-test.tagembed.com/widget/static/js/5881.8575ec21.chunk.js",
+    "static/js/5881.7b82f23c.chunk.js": "https://widget-test.tagembed.com/widget/static/js/5881.7b82f23c.chunk.js",
     "static/css/1000.fece8ce7.chunk.css": "https://widget-test.tagembed.com/widget/static/css/1000.fece8ce7.chunk.css",
-    "static/js/1000.14b0e81b.chunk.js": "https://widget-test.tagembed.com/widget/static/js/1000.14b0e81b.chunk.js",
+    "static/js/1000.d7fefdb8.chunk.js": "https://widget-test.tagembed.com/widget/static/js/1000.d7fefdb8.chunk.js",
     "static/css/9751.17edaeba.chunk.css": "https://widget-test.tagembed.com/widget/static/css/9751.17edaeba.chunk.css",
-    "static/js/9751.1b18e1e1.chunk.js": "https://widget-test.tagembed.com/widget/static/js/9751.1b18e1e1.chunk.js",
+    "static/js/9751.31afe302.chunk.js": "https://widget-test.tagembed.com/widget/static/js/9751.31afe302.chunk.js",
     "static/css/9010.d518fba7.chunk.css": "https://widget-test.tagembed.com/widget/static/css/9010.d518fba7.chunk.css",
     "static/js/9010.48800ebe.chunk.js": "https://widget-test.tagembed.com/widget/static/js/9010.48800ebe.chunk.js",
     "reactPlayerYouTube.js": "https://widget-test.tagembed.com/widget/static/js/reactPlayerYouTube.fe3f95a3.chunk.js",
@@ -147,6 +147,6 @@
   },
   "entrypoints": [
     "static/css/main.0e055fdc.css",
-    "static/js/main.57981897.js"
+    "static/js/main.4c647a55.js"
   ]
 }

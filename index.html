@@ -26,8 +26,8 @@
     <script></script>
     <script>let messageSent = !1; if (window.location.href.includes("editor") && !messageSent) { const e = { url: window.location.href }; window.parent.postMessage({ type: "tokenRequest", data: JSON.stringify(e) }, "*"), messageSent = !0 } window.addEventListener("message", e => { if (e?.data && "tokenReceived" == e?.data?.type) { const { token: t } = JSON.parse(e?.data?.data) || {}, a = t.token ? t.token : t; localStorage.getItem("token") !== a && localStorage.setItem("token", a) } })</script>
     <script defer="defer"
-        src="https://widget-test.tagembed.com/widget/static/js/main.3bf590745462b0d3b689.js?v=202511141316"></script>
-    <link href="https://widget-test.tagembed.com/widget/static/css/main.4355a85c1ebbeb1b13dc.css?v=202511141316"
+        src="https://widget-test.tagembed.com/widget/static/js/main.1561109ba5a88a276682.js?v=202511181302"></script>
+    <link href="https://widget-test.tagembed.com/widget/static/css/main.4355a85c1ebbeb1b13dc.css?v=202511181302"
         rel="stylesheet">
 </head>
 
